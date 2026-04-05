@@ -85,3 +85,4 @@ dmypy.json
 
 # docs (not part of project)
 docs/
+.claude/
